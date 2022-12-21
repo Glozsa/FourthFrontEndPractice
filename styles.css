@@ -4,6 +4,7 @@
 }
 
 body {
+    margin: 0;
     display: flex;
     background-color: hsl(217, 54%, 11%);
     justify-content: center;
